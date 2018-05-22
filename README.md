@@ -2,10 +2,10 @@
 
 a) Instalación
 
-   Descargar paquete de archivos
-   Abrir el archivo WAR
-   (Recomendaciones: Tener Java8 instalado)
-   El programa se ejecutará automaticamente
+    Descargar paquete de archivos
+    Abrir el archivo WAR
+    (Recomendaciones: Tener Java8 instalado)
+    El programa se ejecutará automaticamente
 
 b) Uso
 
